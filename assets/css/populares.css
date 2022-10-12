@@ -61,11 +61,7 @@
 .populares__icon{
     margin-right: .25rem;
 }
-.populares__card___header{
-    border-bottom: 1px solid #dcdcdc;
-    display: flex;
-    justify-content: space-between;
-}
+
 .populares__header{
     border-bottom: 1px solid #dcdcdc;
     display: flex;
